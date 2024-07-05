@@ -14,3 +14,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+### test
+<img src="https://img.shields.io/badge/상-FF0000"/> <img src="https://img.shields.io/badge/중-FF0000"/> <img src="https://img.shields.io/badge/하-FF0000"/><br/>
+<img src="https://img.shields.io/badge/미안해ㅠㅠ-FF0000"/> <img src="https://img.shields.io/badge/힝힝-FF0000"/>
