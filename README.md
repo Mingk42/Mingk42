@@ -14,9 +14,10 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-## test
-<img src="https://img.shields.io/badge/상-FF0000"/> <img src="https://img.shields.io/badge/중-FF0000"/> <img src="https://img.shields.io/badge/하-FF0000"/><br/>
-<img src="https://img.shields.io/badge/미안해ㅠㅠ-FF0000"/> <img src="https://img.shields.io/badge/힝힝-FF0000"/>
+
+## 기술스택
+<img src="https://img.shields.io/badge/상-7FFF00"/> <img src="https://img.shields.io/badge/중-FFD700"/> <img src="https://img.shields.io/badge/하-FF0000"/><br/>
+<img src="https://img.shields.io/badge/Python-7FFF00"/> <img src="https://img.shields.io/badge/SQL-7FFF00"/> <img src="https://img.shields.io/badge/Java-FFD700"/> <img src="https://img.shields.io/badge/Node.js-FFD700"/>
 
 ## 회고
 
