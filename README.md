@@ -1,4 +1,5 @@
-## Hi there 👋
+# 안녕하세요 김태민입니다. 👋
+> 미래 개발자를 꿈꾸며 잘 다니던 회사를 퇴사하고 24년 7월 8일부터 부트캠프중
 
 <!--
 **Mingk42/Mingk42** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -15,11 +16,11 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-## 기술스택
-<img src="https://img.shields.io/badge/상-7FFF00"/> <img src="https://img.shields.io/badge/중-FFD700"/> <img src="https://img.shields.io/badge/하-FF0000"/><br/>
-<img src="https://img.shields.io/badge/Python-7FFF00"/> <img src="https://img.shields.io/badge/SQL-7FFF00"/> <img src="https://img.shields.io/badge/Java-FFD700"/> <img src="https://img.shields.io/badge/Node.js-FFD700"/>
+## 기술스택 <img style="margin-left:10px" src="https://img.shields.io/badge/상-7FFF00"/> <img src="https://img.shields.io/badge/중-FFD700"/> <img src="https://img.shields.io/badge/하-FF0000"/><br/>
+> <img src="https://img.shields.io/badge/Python-7FFF00"/> <img src="https://img.shields.io/badge/SQL-7FFF00"/> <img src="https://img.shields.io/badge/Java-FFD700"/> <img src="https://img.shields.io/badge/Node.js-FFD700"/>
 
 ## 회고
-https://clean-kilogram-15e.notion.site/ff2c3cbab85642db99df08a37efcf13a
+> [notion 회고록 바로가기](https://clean-kilogram-15e.notion.site/ff2c3cbab85642db99df08a37efcf13a)
 <!-- 일일을 모아서 주간에 적고, 주간을 모아서 월간에 적으면 좋은 컨텐츠가 될지도? -->
 ## etc
+> 점차 수정될 예정
