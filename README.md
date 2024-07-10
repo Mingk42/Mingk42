@@ -1,5 +1,5 @@
 # 안녕하세요 김태민입니다. 👋
-> 미래 개발자를 꿈꾸며 잘 다니던 회사를 퇴사하고 24년 7월 8일부터 부트캠프중
+> 미래 개발자를 꿈꾸며 잘 다니던 회사에서 나와 24년 7월 8일부터 부트캠프라는 정글을 헤쳐가는 중
 
 <!--
 **Mingk42/Mingk42** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
