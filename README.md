@@ -20,7 +20,7 @@ Here are some ideas to get you started:
 > <img src="https://img.shields.io/badge/Python-7FFF00"/> <img src="https://img.shields.io/badge/SQL-7FFF00"/> <img src="https://img.shields.io/badge/Java-FFD700"/> <img src="https://img.shields.io/badge/Node.js-FFD700"/>
 
 ## 회고
-> [notion 회고록 바로가기](https://clean-kilogram-15e.notion.site/ff2c3cbab85642db99df08a37efcf13a)
+> [회고 블로그](cro4737.github.io)
 <!-- 일일을 모아서 주간에 적고, 주간을 모아서 월간에 적으면 좋은 컨텐츠가 될지도? -->
 ## etc
 > 점차 수정될 예정
