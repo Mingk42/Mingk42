@@ -16,8 +16,21 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-## 기술스택 <img style="margin-left:10px" src="https://img.shields.io/badge/상-7FFF00"/> <img src="https://img.shields.io/badge/중-FFD700"/> <img src="https://img.shields.io/badge/하-FF0000"/><br/>
-> <img src="https://img.shields.io/badge/Python-7FFF00"/> <img src="https://img.shields.io/badge/SQL-7FFF00"/> <img src="https://img.shields.io/badge/Java-FFD700"/> <img src="https://img.shields.io/badge/Node.js-FFD700"/>
+## 기술스택
+<img style="margin-left:10px" src="https://img.shields.io/badge/상-7FFF00"/>
+
+> ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+> ![SQL](https://img.shields.io/badge/SQL-669DF6?style=for-the-badge&logo=sql&logoColor=FFF)
+> ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+> ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi)
+> ![Apache Airflow](https://img.shields.io/badge/Apache%20Airflow-017CEE?style=for-the-badge&logo=Apache%20Airflow&logoColor=white)
+
+<img src="https://img.shields.io/badge/중-FFD700"/>
+
+> ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
+> ![SpringBoot](https://img.shields.io/badge/spring%20boot-6DB33F.svg?style=for-the-badge&logo=springboot&logoColor=white)
+> ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
+> ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
 
 ## 회고
 > [회고 블로그](https://mingk42.github.io/bloGit/)
