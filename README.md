@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-## 기술스택
+## 🔧 기술스택
 
 > ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 > ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
@@ -33,7 +33,7 @@ Here are some ideas to get you started:
 > [회고 블로그](https://mingk42.github.io/bloGit/)
 일일을 모아서 주간에 적고, 주간을 모아서 월간에 적으면 좋은 컨텐츠가 될지도? -->
 
-## 팀 프로젝트
+## 🧑‍💻 팀 프로젝트
 - 2차 프로젝트 - [Kafka를 이용하여 업무용 메신저 만들기](https://github.com/pladata-encore/DE32-2rd_team3)
 > 담당업무 : Airflow (저장되어 있는 log 파일을, 통계 분석을 위해 parquet 형식으로 변환하는 pipeline 구축)
 <br/>
@@ -60,7 +60,7 @@ Here are some ideas to get you started:
 > - [ ] Elastic Search 적용 : 해당 프로젝트는 기본적으로 검색이 주요기능임. 검색 성능을 높이고 싶은데, Elastic Search가 검색성능을 높일 수 있다고 들어왔고 사용해보고 싶었음.
 > - [ ] React -> Next.js 변경 : Server Side Rendering을 경험해보고 싶음.
 
-## etc
+## 💁 etc
 > [![Docker%20Hub](https://img.shields.io/badge/docker%20hub-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)](https://hub.docker.com/u/mingk42)
 >
 > [![PyPi](https://img.shields.io/badge/pypi-%23ececec.svg?style=for-the-badge&logo=pypi&logoColor=1f73b7)](https://pypi.org/user/ming42/)
