@@ -57,6 +57,7 @@ Here are some ideas to get you started:
 > ---
 > 개선해볼 사항
 > - [ ] FastAPI -> Spring Boot 변경 : 가장 빈번하게 사용되어 온 Java를 이용해 프로젝트를 만들고자 했으나, 백엔드에 드는 비용을 줄이기 위해 간단한 FastAPI를 사용하였음. 최초에 사용하려고 했던 Java로 다시 만들어보고 싶음.
+> > [SpringBoot_TUTech](https://github.com/Mingk42/SpringBoot_TUTech)로 진행중
 > - [ ] Elastic Search 적용 : 해당 프로젝트는 기본적으로 검색이 주요기능임. 검색 성능을 높이고 싶은데, Elastic Search가 검색성능을 높일 수 있다고 들어왔고 사용해보고 싶었음.
 > - [ ] React -> Next.js 변경 : Server Side Rendering을 경험해보고 싶음.
 
