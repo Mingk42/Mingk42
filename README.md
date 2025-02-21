@@ -54,6 +54,8 @@ Here are some ideas to get you started:
 > - 방문기록 페이지 구현 (중복 없이 최신순 정렬)
 > 2. Nginx를 이용한 LB 구축
 > 3. docker-compose.yaml로 패키징
+> 4. AWS 환경 구축
+> - EC2, S3, Route53
 > ---
 > 개선해볼 사항
 > - [ ] FastAPI -> Spring Boot 변경 : 가장 빈번하게 사용되어 온 Java를 이용해 프로젝트를 만들고자 했으나, 백엔드에 드는 비용을 줄이기 위해 간단한 FastAPI를 사용하였음. 최초에 사용하려고 했던 Java로 다시 만들어보고 싶음.
